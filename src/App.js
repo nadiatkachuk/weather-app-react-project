@@ -7,6 +7,11 @@ function App() {
     <div className="App">
       <h1>Weather Search Engine</h1>
       <WeatherSearch />
+      <footer>
+        <a href="https://github.com/nadiatkachuk/weather-app-react-project">
+          Coded by Nadiia Tkachuk
+        </a>
+      </footer>
     </div>
   );
 }
