@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Weather Search Engine</h1>
       <WeatherSearch />
+      <br />
       <footer>
         <a href="https://github.com/nadiatkachuk/weather-app-react-project">
           Coded by Nadiia Tkachuk
