@@ -11,8 +11,9 @@ function App() {
         <br />
         <footer>
           <a href="https://github.com/nadiatkachuk/weather-app-react-project">
-            Coded by Nadiia Tkachuk
-          </a>
+            Open source code
+          </a>{" "}
+          by Nadiia Tkachuk
         </footer>
       </body>
     </div>
